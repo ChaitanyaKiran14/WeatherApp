@@ -1,4 +1,3 @@
-// src/components/ForecastCard.tsx
 import React from 'react';
 
 interface ForecastCardProps {
